@@ -117,6 +117,6 @@ def followers():
                 
             print("Check fini ! Attente de 60 secondes !")
 
-            time.sleep(20)
+            time.sleep(60)
 
 followers()
